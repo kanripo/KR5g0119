@@ -1,8 +1,8 @@
 # -*- mode: mandoku-view -*-
-#+TITLE: 清和眞人北游語錄
-#+DATE: 2015-08-29 02:56:11
+#+TITLE: 清和真人北游語錄
+#+DATE: 2015-08-29 02:56:14
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS CK-KZ
+#+PROPERTY: WITNESS YP-C
 #+PROPERTY: JUAN 0
 
 
